@@ -1,0 +1,19 @@
+{
+  "name": "license-floater",
+  "version": "1.0.0",
+  "description": "A sample license floating project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnsamy-code/License-Floater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnsamy-code/License-Floater/issues"
+  },
+  "homepage": "https://github.com/vnsamy-code/License-Floater#readme"
+}
