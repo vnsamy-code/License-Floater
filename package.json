@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vnsamy-code/License-Floater/issues"
   },
-  "homepage": "https://github.com/vnsamy-code/License-Floater#readme"
+  "homepage": "https://github.com/vnsamy-code/License-Floater#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
