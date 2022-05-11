@@ -4,7 +4,8 @@
     ],
     "ext": "js, json",
     "ignore": [
-        "*.test.js"
+        "*.test.js",
+        "adr-notes"
     ],
     "delay": 1000
 }
