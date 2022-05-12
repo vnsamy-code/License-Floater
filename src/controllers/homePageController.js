@@ -1,3 +1,3 @@
 exports.homePage = (req, res) => {
-    res.send('testing...testing...testing...');
+    res.json({ 'page': 'home' });
 }
