@@ -1,0 +1,21 @@
+New License Scenario:
+---------------------
+
+- Associate an email ID with License Key.
+- Have a repository of licenses.
+- Mark issued licenses, so that they don't get sent again.
+- User should be able to request a forgotten license key any given time.
+
+License on Account Scenario:
+----------------------------
+
+- User should be able to create an account with the server.
+- On the account all product licenses should be stored.
+- Server should retain the products information.
+- One email can have licenses for multiple products.
+- The licenses on email should not repeat for the same product.
+- If the user attempts to buy a license on the same product again, advice the user against it.
+
+License upgrade scenario:
+-------------------------
+- User must be able to provide a license and the email associated with it, so the user can upgrade the product license.
