@@ -18,3 +18,5 @@ const issuedLicenseSchema = new mongoose.Schema({
         required: true
     }
 });
+
+module.exports = mongoose.model('IssuedLicense', issuedLicenseSchema);
