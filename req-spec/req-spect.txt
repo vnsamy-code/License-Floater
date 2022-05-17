@@ -2,8 +2,8 @@ New License Scenario:
 ---------------------
 
 - Associate an email ID with License Key.
-- Have a repository of licenses.
-- Mark issued licenses, so that they don't get sent again.
+- Have a repository of licenses. ❌
+- Mark issued licenses, so that they don't get sent again. ❌
 - User should be able to request a forgotten license key any given time.
 
 License on Account Scenario:
